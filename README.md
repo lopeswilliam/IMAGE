@@ -10,5 +10,8 @@ Leitura de arquivo.
     Posta em um topic kakfa, ou qualquer um de utilidade.
     
 4 - Componente consome arquivo e segue o fluxo.
+    A Informação pode ser add. em bucket s3, por exemplo.
+    Easy. easy....:)
+
 
 if you talk about anything, dont worry. Im here!!! :)
